@@ -5,7 +5,7 @@ import jakarta.persistence.*;
 
 import java.time.LocalDate;
 
-//Victoria Moura - RM555474
+//Renato Luiz - RM556403
 
 @Entity(name = "Aluno")
 @Table(name = "dddj_sub_alunos")
